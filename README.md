@@ -20,6 +20,17 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 Deciphering is done in reverse, with a right shift of 3.
+
+
+# Sample output
+
+ENCRYPTION MODE ACTIVATED
+
+Enter the key: 4
+
+Enter the text to decrypt: lfhe
+
+PLAINTEXT: HBDA
 # Setup
 Install the required packages to be able to run the codes locally.
 Windows:
